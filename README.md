@@ -1,2 +1,2 @@
-# skived_fin_coating_thickness_calculator_GAP0.5_1
+# skived_fin_coating_thickness_calculator_GAP0.5
 Calculator_GAP0.5_Thickness
